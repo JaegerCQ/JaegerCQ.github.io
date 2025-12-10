@@ -7,7 +7,7 @@
   <div style="flex:1; min-width:250px;">
     <h1 style="margin-bottom:5px;">Shuang Li</h1>
     <div style="font-size:18px; margin-bottom:10px;">
-      PhD Candidate · School of Future Technology · Peking University
+      PhD Candidate · College of Future Technology · Peking University
     </div>
     Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a><br>
     Homepage: <a href="https://github.com/JaegerCQ" target="_blank">https://github.com/JaegerCQ</a><br>
