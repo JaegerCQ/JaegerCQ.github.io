@@ -1,3 +1,8 @@
+---
+layout: default
+title: Shuang Li
+---
+
 <div style="max-width:900px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;">
 
   <!-- 顶部左右结构：左侧个人信息，右侧头像 -->
