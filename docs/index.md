@@ -1,12 +1,25 @@
-# Shuang Li  
-PhD Candidate · School of Future Technology, Peking University
+<table>
+<tr>
+<td>
 
-<img src="profile.jpg" width="120">
-
+<h1>Shuang Li</h1>
+PhD Candidate · School of Future Technology, Peking University  
+<br>
 Email: Jaeger1412@163.com  
+<br>
 Phone: (+86) 13270508126  
+<br>
 Homepage: https://github.com/JaegerCQ  
+<br>
 WeChat: Jaeger1412  
+
+</td>
+
+<td style="text-align:right; vertical-align:top; padding-left:20px;">
+<img src="profile.jpg" width="150" style="border-radius:8px;">
+</td>
+</tr>
+</table>
 
 ---
 
