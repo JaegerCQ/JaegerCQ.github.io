@@ -1,34 +1,36 @@
+<!-- Responsive header wrapper -->
 <div style="max-width:800px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;">
 
-<!-- Top Section -->
-<table style="width:100%; border-collapse:collapse; margin-bottom:20px;">
-<tr>
+<!-- Header Section -->
+<div style="
+    display:flex;
+    justify-content:space-between;
+    align-items:center;
+    flex-wrap:wrap;
+    margin-bottom:20px;
+">
 
-<!-- Left Text -->
-<td style="vertical-align:top;">
+    <!-- Left text block -->
+    <div style="flex:1; min-width:250px;">
+        <h1 style="margin-bottom:5px;">Shuang Li</h1>
+        <div style="font-size:18px; margin-bottom:10px;">
+            PhD Candidate · School of Future Technology · Peking University
+        </div>
 
-<h1 style="margin-bottom:5px;">Shuang Li</h1>
-<div style="font-size:18px; margin-bottom:10px;">
-PhD Candidate · School of Future Technology · Peking University
+        Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a><br>
+        Phone: (+86) 13270508126<br>
+        Homepage: <a href="https://github.com/JaegerCQ">https://github.com/JaegerCQ</a><br>
+        WeChat: Jaeger1412
+    </div>
+
+    <!-- Right image block -->
+    <div style="text-align:right; min-width:150px; margin-top:10px;">
+        <img src="profile.jpg" width="150" style="border-radius:10px;">
+    </div>
+
 </div>
 
-Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a>  
-<br>
-Phone: (+86) 13270508126  
-<br>
-Homepage: <a href="https://github.com/JaegerCQ">https://github.com/JaegerCQ</a>  
-<br>
-WeChat: Jaeger1412
-
-</td>
-
-<!-- Right Photo -->
-<td style="width:170px; text-align:right; vertical-align:top;">
-<img src="profile.jpg" width="200" style="border-radius:10px; margin-left:20px;">
-</td>
-
-</tr>
-</table>
+</div>
 
 ---
 
