@@ -1,7 +1,7 @@
 # Shuang Li  
 PhD Candidate · School of Future Technology, Peking University
 
-![Profile Photo](profile.jpg)
+<img src="profile.jpg" width="120">
 
 Email: Jaeger1412@163.com  
 Phone: (+86) 13270508126  
