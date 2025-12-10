@@ -24,7 +24,7 @@ WeChat: Jaeger1412
 
 <!-- Right Photo -->
 <td style="width:170px; text-align:right; vertical-align:top;">
-<img src="profile.jpg" width="150" style="border-radius:10px; margin-left:20px;">
+<img src="profile.jpg" width="200" style="border-radius:10px; margin-left:20px;">
 </td>
 
 </tr>
