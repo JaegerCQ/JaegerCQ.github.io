@@ -1,8 +1,3 @@
----
-layout: default
-title: Shuang Li
----
-
 <div style="max-width:800px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;">
 
 <!-- Header Section -->
