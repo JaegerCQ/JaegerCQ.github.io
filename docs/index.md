@@ -52,7 +52,7 @@ I have published first‑author papers in _Nature Communications_, _Photoacousti
 ---
 
 ## Publications (First Author or Major Contributor)
-1. S. Li, Y. Wang, J. Gao, et al. Slingbag: Point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging. _Nature Communications_, 2025.
+1. S. Li, Y. Wang, J. Gao, et al. SlingBAG: Point cloud-based iterative algorithm for large-scale 3D photoacoustic imaging. _Nature Communications_, 2025.
 2. S. Li, Q. Chen, C. Kim, et al. Zero-shot artifact2artifact: Self-incentive artifact removal for photoacoustic imaging. _Photoacoustics_, 2025.  
 3. S. Li, G. Zhang, Y. Wang, et al. Photoacoustic imaging of peripheral vessels in extremities by large-scale synthetic matrix array. _Journal of Biomedical Optics_, 2024.  
 4. H. Wan, J. Chen, S. Li, et al. Design of underwater acoustic touchscreen based on deep convolutional neural network. _Applied Acoustics_, 2023.  
