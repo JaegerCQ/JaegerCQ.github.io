@@ -15,11 +15,11 @@
     <!-- Social Icons -->
     <div style="margin-top:12px;">
       <!-- Google Scholar -->
-      <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank" style="margin-right:12px;">
+      <a href="https://scholar.google.com/citations?user=-2_rfFEAAAAJ&hl=zh-CN" target="_blank" style="margin-right:12px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" width="26" style="vertical-align:middle;" alt="Google Scholar">
       </a>
       <!-- ORCID -->
-      <a href="https://orcid.org/YOUR_ORCID" target="_blank" style="margin-right:12px;">
+      <a href="https://orcid.org/0000-0002-6965-5860" target="_blank" style="margin-right:12px;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" width="26" style="vertical-align:middle;" alt="ORCID">
       </a>
       <!-- GitHub -->
