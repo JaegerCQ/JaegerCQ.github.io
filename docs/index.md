@@ -15,10 +15,38 @@
         <div style="font-size:18px; margin-bottom:10px;">
             PhD Candidate · School of Future Technology · Peking University
         </div>
+
         Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a><br>
         Phone: (+86) 13270508126<br>
         Homepage: <a href="https://github.com/JaegerCQ">https://github.com/JaegerCQ</a><br>
         WeChat: Jaeger1412
+
+        <!-- Social Icons -->
+        <div style="margin-top:12px;">
+
+            <!-- Google Scholar -->
+            <a href="https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID" target="_blank"
+               style="margin-right:12px;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg"
+                     width="26" style="vertical-align:middle;">
+            </a>
+
+            <!-- ORCID -->
+            <a href="https://orcid.org/YOUR_ORCID" target="_blank"
+               style="margin-right:12px;">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg"
+                     width="26" style="vertical-align:middle;">
+            </a>
+
+            <!-- GitHub -->
+            <a href="https://github.com/JaegerCQ" target="_blank"
+               style="margin-right:12px;">
+                <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+                     width="26" style="vertical-align:middle; border-radius:4px;">
+            </a>
+
+        </div>
+
     </div>
 
     <!-- Right image block -->
@@ -59,6 +87,7 @@ I have published first‑author papers in *Nature Communications*, *Photoacousti
 - **SlingBAG**  
   3D Gaussian Splatting–based iterative reconstruction for large-scale photoacoustic imaging with point‑cloud iteration and differentiable rendering.  
   https://github.com/JaegerCQ/SlingBAG  
+
 - **ZS‑A2A**  
   Zero‑shot self‑supervised artifact removal for 3D reconstruction; plug‑and‑play; fast quality enhancement.  
   https://github.com/JaegerCQ/ZS-A2A  
