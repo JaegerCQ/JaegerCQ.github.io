@@ -1,4 +1,3 @@
-<!-- Responsive header wrapper -->
 <div style="max-width:800px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;">
 
 <!-- Header Section -->
@@ -16,7 +15,6 @@
         <div style="font-size:18px; margin-bottom:10px;">
             PhD Candidate · School of Future Technology · Peking University
         </div>
-
         Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a><br>
         Phone: (+86) 13270508126<br>
         Homepage: <a href="https://github.com/JaegerCQ">https://github.com/JaegerCQ</a><br>
@@ -30,12 +28,10 @@
 
 </div>
 
-</div>
-
 ---
 
 ## About Me
-I am a PhD candidate in Biomedical Engineering at the School of Future Technology, Peking University. My research interests include computational 3D imaging, AI4Science, and the applications of deep learning in physics and biology. I completed my undergraduate studies at Kuang Yaming Honors School, Nanjing University, majoring in Biophysics.
+I am a PhD candidate in Biomedical Engineering at the School of Future Technology, Peking University. My research interests include computational 3D imaging, AI4Science, and applications of deep learning in physics and biology. I completed my undergraduate studies at Kuang Yaming Honors School, Nanjing University, majoring in Biophysics.
 
 I have published first‑author papers in *Nature Communications*, *Photoacoustics*, and *Journal of Biomedical Optics*, and have received the Peking University Presidential Scholarship and the National Scholarship.
 
@@ -63,7 +59,6 @@ I have published first‑author papers in *Nature Communications*, *Photoacousti
 - **SlingBAG**  
   3D Gaussian Splatting–based iterative reconstruction for large-scale photoacoustic imaging with point‑cloud iteration and differentiable rendering.  
   https://github.com/JaegerCQ/SlingBAG  
-
 - **ZS‑A2A**  
   Zero‑shot self‑supervised artifact removal for 3D reconstruction; plug‑and‑play; fast quality enhancement.  
   https://github.com/JaegerCQ/ZS-A2A  
