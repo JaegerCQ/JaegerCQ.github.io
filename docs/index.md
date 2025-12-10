@@ -10,7 +10,6 @@
       PhD Candidate · School of Future Technology · Peking University
     </div>
     Email: <a href="mailto:Jaeger1412@163.com">Jaeger1412@163.com</a><br>
-    Phone: (+86) 13270508126<br>
     Homepage: <a href="https://github.com/JaegerCQ" target="_blank">https://github.com/JaegerCQ</a><br>
     WeChat: Jaeger1412
     <!-- Social Icons -->
