@@ -1,4 +1,5 @@
-<div style="max-width:800px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;">
+
+<div style="max-width:800px; margin:0 auto; font-family:Arial, sans-serif; line-height:1.6;" markdown="1">
 
 <!-- Header Section -->
 <div style="display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; margin-bottom:20px;">
@@ -30,11 +31,12 @@
   </div>
   <!-- Right image block -->
   <div style="text-align:right; min-width:150px; margin-top:10px;">
-    <!-- 请替换 profile.jpg 为你仓库里实际头像的文件名或路径 -->
+    <!-- 替换为你的头像路径 -->
     <img src="profile.jpg" width="150" style="border-radius:10px;" alt="Profile Picture">
   </div>
 </div>
 
+---
 
 ## About Me
 I am a PhD candidate in Biomedical Engineering at the School of Future Technology, Peking University. My research interests include computational 3D imaging, AI4Science, and applications of deep learning in physics and biology. I completed my undergraduate studies at Kuang Yaming Honors School, Nanjing University, majoring in Biophysics.  
