@@ -38,14 +38,14 @@
 ---
 
 ## About Me
-I am a PhD candidate in Biomedical Engineering at the School of Future Technology, Peking University. My research interests include computational 3D imaging, AI4Science, and applications of deep learning in physics and biology. I completed my undergraduate studies at Kuang Yaming Honors School, Nanjing University, majoring in Biophysics.  
+I am a PhD candidate in Biomedical Engineering at the College of Future Technology, Peking University. My research interests include computational 3D imaging, AI4Science, and applications of deep learning in physics and biology. I completed my undergraduate studies at Kuang Yaming Honors School, Nanjing University, majoring in Biophysics.  
 I have published first‑author papers in _Nature Communications_, _Photoacoustics_, and _Journal of Biomedical Optics_, and have received the Peking University Presidential Scholarship and the National Scholarship.
 
 ---
 
 ## Education
 - **2022–Present**  
-  PhD Student, Biomedical Engineering, School of Future Technology, Peking University  
+  PhD Student, Biomedical Engineering, College of Future Technology, Peking University  
 - **2018–2022**  
   BSc, Biophysics, Kuang Yaming Honors School, Nanjing University
 
